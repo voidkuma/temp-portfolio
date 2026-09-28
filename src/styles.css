@@ -1,6 +1,4 @@
-/* ---------- Design tokens ----------
-   Keeping colors as CSS variables means you can re-theme the whole site
-   by changing values in one place, instead of hunting through every rule. */
+/* Color Palette */
 :root {
   --bg: #0f1216;
   --bg-raise: #171b22;

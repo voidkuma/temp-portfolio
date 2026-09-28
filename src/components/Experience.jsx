@@ -3,7 +3,7 @@ import { experience } from "../data/experience";
 export default function Experience() {
   return (
     <section id="experience">
-      <h2 className="section-title">Experience</h2>
+      <h2 className="section-title"></h2>
 
       {experience.map((job) => (
         <div className="job" key={job.id}>

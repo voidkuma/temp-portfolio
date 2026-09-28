@@ -1,9 +1,9 @@
-// Same idea as experience.js — one object per project. `accent` picks which
-// color the little SVG graphic and hover state use (see ProjectVisual.jsx).
+// List of my current favorite projects
+
 export const projects = [
   {
     id: "project-one",
-    name: "Project name",
+    name: "Linguistics Club Website",
     description:
       "One or two sentences on what this project is, the problem it solved, and your role in building it.",
     tags: ["React", "CSS", "Figma"],

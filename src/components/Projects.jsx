@@ -4,7 +4,7 @@ import ProjectVisual from "./ProjectVisual";
 export default function Projects() {
   return (
     <section id="projects">
-      <h2 className="section-title">Projects</h2>
+      <h2 className="section-title"></h2>
 
       {projects.map((project) => (
         // The whole card is one <a> tag — that's what makes the entire

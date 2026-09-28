@@ -18,8 +18,8 @@ export default function App() {
       <Sidebar activeId={activeId} />
       <main>
         <About />
-        <Experience />
         <Projects />
+        <Experience />
       </main>
       <Footer />
     </div>
